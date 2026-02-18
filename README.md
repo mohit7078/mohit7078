@@ -1,4 +1,6 @@
-# 💫 About Me:
+#
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohit Kumar
+💫 About Me:
 I’m currently working on<br>Building scalable React.js applications and improving my MERN stack projects.<br><br>I’m looking to collaborate on<br>Frontend projects using React.js, Next.js, and modern UI/UX designs.<br><br>I’m looking for help with<br>Advanced system design concepts and transitioning into data-driven roles.<br><br>I’m currently learning<br>Next.js, performance optimization, and data analysis fundamentals.<br><br>Ask me about<br>React.js, API integrations, admin dashboards, and building responsive web apps.<br><br>Fun fact<br>I enjoy turning complex ideas into clean and user-friendly interfaces
 
 
